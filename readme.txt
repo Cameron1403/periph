@@ -1,5 +1,5 @@
 ============= Génération de ce projet, T.Rocacher ===========================================
-Coucou, this is a change la seconde partie de ce readme est l'original qu'on peut trouver dans /Templates_LL
+Coucou, this is a change the second change la seconde partie de ce readme est l'original qu'on peut trouver dans /Templates_LL
 
 NB: curieusement ds le main, la fonction void SystemClock_Config(void) est différente des exemples LL.
 Elle est donc modifiée pour coller à tout les exemples LL, en particulier, elle utilise la lib utils.
