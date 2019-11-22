@@ -145,3 +145,5 @@ void sendAlerte(){ //envoi du message d'alerte, faisant appel à UART_Send
 	//UART_Send(USART1,0x0D);
 	LL_GPIO_ResetOutputPin(GPIOA, LL_GPIO_PIN_11);
 }
+//salut
+
